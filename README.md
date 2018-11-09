@@ -15,7 +15,8 @@ git commit -m "Make a helpful comment"
 
 git push
 
-Another user
-------------
-Add the url for a cheat sheet
+Git Cheat Sheet
+---------------
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
