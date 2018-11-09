@@ -1,6 +1,17 @@
 # rs_scripts
 Repserver scripts
 
-Make the first change
+Git: Steps
+----------
+vim README.md
 
-Make the second change
+git status
+
+git add README.md 
+
+git status
+
+git commit -m "Make a helpful comment"
+
+git push
+
