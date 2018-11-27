@@ -1,0 +1,33 @@
+total 124
+drwxr-xr-x  2 david david 4096 Jul 11 14:08 Music
+drwxr-xr-x  7 david david 4096 Jul 11 14:17 generatedata-3.2.8
+drwxr-xr-x  2 david david 4096 Jul 11 14:17 generatedata_data
+drwxr-xr-x  9 david david 4096 Jul 11 15:08 pyvenv.1
+-r--r--r--  1 david david   13 Jul 11 16:21 README.root
+drwxr-xr-x  4 david david 4096 Jul 16 12:08 perl5
+-rwxr-xr-x  1 david david  135 Jul 16 13:54 start_sybase.sh
+-rw-r--r--  1 david david 3362 Jul 16 18:54 README
+-rw-r--r--  1 david david   15 Jul 17 14:18 README.tracker
+-rw-r--r--  1 david david   97 Jul 19 10:55 README.MVL
+drwxr-xr-x  2 david david 4096 Jul 19 19:36 Documents
+drwxr-xr-x  3 david david 4096 Aug 19 10:59 tools
+drwxr-xr-x  6 david david 4096 Sep  1 18:04 Scripts
+drwxr-xr-x  6 david david 4096 Sep  1 18:06 venv
+-rw-r--r--  1 david david   25 Sep  1 18:08 start_venv
+-rw-r--r--  1 david david   59 Sep 16 09:50 README.env
+drwxr-xr-x 26 david david 4096 Sep 29 14:49 ASE
+lrwxrwxrwx  1 david david   13 Nov  6 09:29 d -> README.docker
+-rw-r--r--  1 david david  891 Nov  6 09:53 README.docker
+drwxr-xr-x  2 david david 4096 Nov  6 11:42 docker
+drwxr-xr-x  2 david david 4096 Nov  6 12:12 docker_eg2
+drwxr-xr-x  2 david david 4096 Nov  6 22:36 Desktop
+drwxr-xr-x  2 david david 4096 Nov  6 23:28 software
+-rw-r--r--  1 david david   77 Nov  6 23:38 readme
+drwxr-xr-x  6 david david 4096 Nov  7 11:19 ansible_project
+drwxr-xr-x  3 david david 4096 Nov  9 20:13 git
+-r--r--r--  1 david david  324 Nov  9 20:28 README.git
+drwxr-xr-x  2 david david 4096 Nov 13 22:54 tmp2
+drwxr-xr-x 10 david david 4096 Nov 25 10:19 Downloads
+drwxr-xr-x  2 david david 4096 Nov 27 21:06 Pictures
+drwxr-xr-x  5 david david 4096 Nov 27 21:25 tmp
+drwxr-xr-x  3 david david 4096 Nov 27 21:29 tmp3
